@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @UserName-None
+- 👀 I’m interested in Hacking, Programming, AI, Game Dev, and OSs.
+- - 🌱 I’m currently learning Ethical Hacking, C#, making AI from python, making games in Unreal Engine 4.
+- 💞️ I’m looking to collaborate with people who had experience with C++ programming in Unreal Engine, Hacking, and AI.
